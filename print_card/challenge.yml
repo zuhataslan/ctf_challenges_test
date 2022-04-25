@@ -5,7 +5,7 @@
 name: "Print a Card"
 author: "Björn Österman"
 category: pwn
-description: Print that Santa
+description: Print that Santa :)
 connection_info: nc 2021.santahack.xyz 42001
 
 value: 500
