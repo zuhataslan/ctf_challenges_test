@@ -11,7 +11,7 @@ type: dynamic
 extra:
     initial: 500
     decay: 15
-    minimum: 100
+    minimum: 101
 
 flags:
     - haxmas{i_saw_daddy_hacking_santa}
