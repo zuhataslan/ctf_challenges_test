@@ -10,7 +10,7 @@ connection_info: nc 2021.santahack.xyz 42003
 value: 500
 type: dynamic
 extra:
-    initial: 500
+    initial: 501
     decay: 15
     minimum: 100
 
